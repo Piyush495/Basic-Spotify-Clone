@@ -19,10 +19,6 @@ This project focuses on replicating the UI components of Spotify, including navi
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of your project here – e.g., homepage, player controls)
-
----
 
 ## 🚀 Getting Started
 To run the project locally:  
